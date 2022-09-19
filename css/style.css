@@ -72,7 +72,7 @@ body {
   position: absolute;
   top: 18%;
   right: 12.2%;
-  width: 36%;
+  width: 40%;
   line-height: 0;
   animation: textshow 5s;
   color: #000;
@@ -87,7 +87,7 @@ body {
 }
 .part-1 .top-text p {
   margin: 3.5% 0;
-  line-height: 1.2rem;
+  line-height: 1rem;
   text-align: center;
   font-size: 1.5rem;
 }
